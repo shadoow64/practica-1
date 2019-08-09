@@ -40,7 +40,7 @@
 
 > Se refiere que es un servicio para despachar o mostrar las paginas web a los usuarios, mientras que los servidores de aplicaciones dan un servicio a las computadoras personas de los clientes.
 
-6.  ![](media/image2.jpeg){width="7.802169728783902in" height="4.220779746281715in"}**Con un gráfico explique cómo funciona el protocolo HTTP**
+6.  ![](Z:\Escritorio\imagenes\web.jpg){width="7.802169728783902in" height="4.220779746281715in"}**Con un gráfico explique cómo funciona el protocolo HTTP**
 
 7.  **Explique los elementos importantes de REQUEST en HTTP**
 
@@ -60,7 +60,7 @@
 
 9.  **Describa con un gráfico la arquitectura Java EE**
 
-> ![](media/image3.gif){width="5.565324803149606in" height="3.727273622047244in"}
+> ![](Z:\Escritorio\imagenes\javaee.jpg){width="5.565324803149606in" height="3.727273622047244in"}
 
 10. **Explique cuáles son los contenedores, componentes y servicios de Java EE**
 
@@ -126,7 +126,7 @@
 
         -   Ejemplo.
 
-![](media/image4.png){width="5.174324146981627in" height="1.6233770778652667in"}
+![](Z:\Escritorio\imagenes\httpget.png){width="5.174324146981627in" height="1.6233770778652667in"}
 
 -   HTTP POST
 
@@ -134,13 +134,13 @@
 
         -   Pasar más información que una petición HTTP GET
 
-    -   ![](media/image5.png){width="4.565216535433071in" height="1.8629024496937883in"}Ejemplo.
+    -   ![](Z:\Escritorio\imagenes\httppost.png){width="4.565216535433071in" height="1.8629024496937883in"}Ejemplo.
 
 -   doGet() y doPost()
 
     -   Sobre escribir métodos doGet() y doPost().
 
-![](media/image6.png){width="5.233766404199475in" height="1.874329615048119in"}
+![](Z:\Escritorio\imagenes\do.png){width="5.233766404199475in" height="1.874329615048119in"}
 
 -   Metodos de HttpServletRequest
 
