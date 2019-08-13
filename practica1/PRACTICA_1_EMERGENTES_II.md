@@ -1,5 +1,7 @@
 #PRACTICA #1
-#*Sistemas Empresariales*
+
+##**Sistemas Empresariales**
+
 **_Carrera_** : Ingenieria de sistemas
 
 **_Materia_** : Tecnologias emergentes II
