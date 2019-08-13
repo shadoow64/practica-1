@@ -1,3 +1,16 @@
+#PRACTICA #1
+#*Sistemas Empresariales*
+**_Carrera_** : Ingenieria de sistemas
+
+**_Materia_** : Tecnologias emergentes II
+
+**_Apellidos y Nombres_** : Arias Chambi Jose Milton
+
+**_C.I_** : 9942551 LP
+
+**_Lugar y Fecha_** : La Paz, 06 de agosto de 2019
+
+
 1.  **Explique que son los sistemas empresariales**
 
 > Son sistemas que son muy importantes dentro de una organización, los cuales se encarga del funcionamiento de las tareas dentro de ella, como el gestionamiento de datos, organización de documentación entre otros, el cual el mal funcionamiento podría causar perdidas irremediables para tal.
@@ -40,8 +53,8 @@
 
 > Se refiere que es un servicio para despachar o mostrar las paginas web a los usuarios, mientras que los servidores de aplicaciones dan un servicio a las computadoras personas de los clientes.
 
-6.  ![](Z:\Escritorio\emergentes\imagenes\web.jpg){width="7.802169728783902in" height="4.220779746281715in"}**Con un gráfico explique cómo funciona el protocolo HTTP**
-
+6.  **Con un gráfico explique cómo funciona el protocolo HTTP**
+![](Z:\Escritorio\emergentes\imagenes\web.jpg)
 7.  **Explique los elementos importantes de REQUEST en HTTP**
 
 -   HTTP method (the action to be performed), Dentro del mensaje "PETICIONES", existen varios métodos que envia y recibe parámetros o variables.
@@ -60,7 +73,7 @@
 
 9.  **Describa con un gráfico la arquitectura Java EE**
 
-> ![](Z:\Escritorio\emergentes\imagenes\javaee.jpg){width="5.565324803149606in" height="3.727273622047244in"}
+> ![](Z:\Escritorio\emergentes\imagenes\javaee.jpg)
 
 10. **Explique cuáles son los contenedores, componentes y servicios de Java EE**
 
@@ -116,7 +129,7 @@
 
 -   Todos los servicios
 
-11. **Investigue los métodos más utilizados de las clases [HttpServlet]{.underline}, [HttpServletRequest]{.underline} y [HttpServletResponse]{.underline}, y para cada uno de los métodos muestre un ejemplo.**
+11. **Investigue los métodos más utilizados de las clases _[HttpServlet]_, _[HttpServletRequest]_ y _[HttpServletResponse]_, y para cada uno de los métodos muestre un ejemplo.**
 
 -   Métodos de HttpServlet:
 
@@ -126,15 +139,16 @@
 
         -   Ejemplo.
 
-![](Z:\Escritorio\emergentes\imagenes\httpget.png){width="5.174324146981627in" height="1.6233770778652667in"}
+        ![](Z:\Escritorio\emergentes\imagenes\httpget.png)
 
 -   HTTP POST
 
     -   Permite al cliente enviar datos al servidor
 
         -   Pasar más información que una petición HTTP GET
+        - Ejemplo.
+      ![](Z:\Escritorio\emergentes\imagenes\httppost.png)
 
-    -   ![](Z:\Escritorio\emergentes\imagenes\httppost.png){width="4.565216535433071in" height="1.8629024496937883in"}Ejemplo.
 
 -   doGet() y doPost()
 
