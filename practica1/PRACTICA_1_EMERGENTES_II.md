@@ -56,7 +56,7 @@
 > Se refiere que es un servicio para despachar o mostrar las paginas web a los usuarios, mientras que los servidores de aplicaciones dan un servicio a las computadoras personas de los clientes.
 
 6.  **Con un gráfico explique cómo funciona el protocolo HTTP**
-![](Z:\Escritorio\emergentes\imagenes\web.jpg)
+![](emergentes\imagenes\web.jpg)
 7.  **Explique los elementos importantes de REQUEST en HTTP**
 
 -   HTTP method (the action to be performed), Dentro del mensaje "PETICIONES", existen varios métodos que envia y recibe parámetros o variables.
