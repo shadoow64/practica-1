@@ -56,7 +56,7 @@
 > Se refiere que es un servicio para despachar o mostrar las paginas web a los usuarios, mientras que los servidores de aplicaciones dan un servicio a las computadoras personas de los clientes.
 
 6.  **Con un gráfico explique cómo funciona el protocolo HTTP**
-![](emergentes\imagenes\web.jpg)
+![](emergentes/imagenes/web.jpg)
 7.  **Explique los elementos importantes de REQUEST en HTTP**
 
 -   HTTP method (the action to be performed), Dentro del mensaje "PETICIONES", existen varios métodos que envia y recibe parámetros o variables.
@@ -75,7 +75,7 @@
 
 9.  **Describa con un gráfico la arquitectura Java EE**
 
-> ![](Z:\Escritorio\emergentes\imagenes\javaee.jpg)
+> ![](emergentes/imagenes/javaee.jpg)
 
 10. **Explique cuáles son los contenedores, componentes y servicios de Java EE**
 
@@ -141,7 +141,7 @@
 
         -   Ejemplo.
 
-        ![](Z:\Escritorio\emergentes\imagenes\httpget.png)
+        ![](emergentes/imagenes/httpget.png)
 
 -   HTTP POST
 
@@ -149,14 +149,14 @@
 
         -   Pasar más información que una petición HTTP GET
         - Ejemplo.
-      ![](Z:\Escritorio\emergentes\imagenes\httppost.png)
+      ![](emergentes/imagenes/httppost.png)
 
 
 -   doGet() y doPost()
 
     -   Sobre escribir métodos doGet() y doPost().
 
-![](Z:\Escritorio\emergentes\imagenes\do.png){width="5.233766404199475in" height="1.874329615048119in"}
+![](emergentes/imagenes/do.png)
 
 -   Metodos de HttpServletRequest
 
